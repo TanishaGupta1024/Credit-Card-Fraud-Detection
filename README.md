@@ -60,7 +60,7 @@ Deploy on cloud (e.g., AWS or Heroku)
 Credit_Card_Fraud_Detection/
 ├── Credit_Card_Fraud_Detection.ipynb
 ├── README.md
-└──  dataset
+└──  dataset(which was taken from Kaggle)
 
 🧠 Author
 Tanisha Gupta
